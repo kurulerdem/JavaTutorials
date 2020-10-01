@@ -6,3 +6,5 @@ Bu bölümde Java ile ilgili yapılmış örneklerin paylaşıldığı linkler y
 1- Joption Pane Kullanımı- https://github.com/kurulerdem/TrafficSpeedCheck 
 
 2- Değer ve Referans Tipler https://github.com/kurulerdem/DegerveReferans
+
+3- Encapsulation
