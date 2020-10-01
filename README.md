@@ -7,4 +7,4 @@ Bu bölümde Java ile ilgili yapılmış örneklerin paylaşıldığı linkler y
 
 2- Değer ve Referans Tipler https://github.com/kurulerdem/DegerveReferans
 
-3- Encapsulation
+3- Encapsulation https://github.com/kurulerdem/Encapsulation.git
